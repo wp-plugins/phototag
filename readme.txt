@@ -32,7 +32,7 @@ Yes of course. Tagging process is provided for images with determined width. Tha
 2. screenshot-2.png
 
 == Changelog ==
-
+1.0.2 A little bug has been fixed. (Please don't hesitate to update this plugin when new update is avaliable. New updates will never destruct your old tagged phototags structure.)
 == Arbitrary section ==
 
 == A brief Markdown Example ==
