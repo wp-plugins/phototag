@@ -12,7 +12,7 @@ Phototag - Tag people on photos in your blog posts (Facebook like tagging).
 
 By using Phototag plugin (tagging people on photos) you can put tags on photos in your blog posts like in facebook tags. It is very easy to use. Just visit the screenshot section, it will be very clear to understand.
 You can also use this plugin for another purposes.(for example when you explain somthing to user with steps, you can tag steps one explanation image). For further questions contact to author( elvinhaci [at] hotmail.com ).
-You can also send us your site url, in which you use Phototag plugin. After checking your url we will put your site url to official page of our plugin (http://webania.net/phototag)
+You can also send us your site url, in which you use Phototag plugin. After checking your url we will put your website url to official page of our plugin (http://webania.net/phototag)
 == Installation ==
 
 Simple:
