@@ -185,13 +185,12 @@ function phototag_start ()
 {
 add_menu_page('admin-menu', 'Tag new photo', 5, __FILE__, 'phototag');
 }
-function inlude_js_css ($content = '')
+function inlude_js_css ()
 {
-
 $inc=file_get_contents(WP_PLUGIN_DIR . "/" . plugin_basename(dirname(__FILE__))."/add_js_css.php");
-return $content.$inc ;
+echo $inc ;
 }
 
 add_action('admin_menu', 'phototag_start');
-add_filter('the_content', 'inlude_js_css');
+add_filter('get_footer', 'inlude_js_css');
 ?>

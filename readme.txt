@@ -4,7 +4,7 @@ Donate link: http://webania.net/phototag#donate
 Tags: photo, tag, image, tagging, facebook tag , image mapping, map on image, facebook like photo, steps with image, explanation steps on image, user guide
 Requires at least: 2
 Tested up to: 3.1
-Stable tag: 1.0
+Stable tag: 1.0.2
 
 Phototag - Tag people on photos in your blog posts (Facebook like tagging).
 
