@@ -3,7 +3,7 @@
 Plugin Name: Phototag
 Plugin URI: http://www.webania.net/phototag/
 Description: Phototag - Tag people on photos in your blog posts (Facebook like tagging).
-Version: 1.0.2
+Version: 1.0.3
 Author: Elvin Haci
 Author URI: http://www.e-haci.net
 License: GPL2
